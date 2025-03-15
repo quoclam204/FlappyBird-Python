@@ -9,16 +9,16 @@ Flappy Bird là một trò chơi đơn giản, nơi người chơi điều khi�
 | **Thư viện** | Pygame |
 
 ##  Hình ảnh minh họa  
-![Gameplay](![Image](https://github.com/user-attachments/assets/b9bfd859-303f-4686-8b00-0fa667d87d79))
+![Gameplay]![Image](https://github.com/user-attachments/assets/b9bfd859-303f-4686-8b00-0fa667d87d79)
 
 ##  Cách chơi  
-1️⃣ Nhấn **Space** để làm cho chim bay lên.  
-2️⃣ Tránh va chạm vào các ống cản.  
-3️⃣ Điểm số tăng khi vượt qua các ống cản.  
+1️ Nhấn **Space** để làm cho chim bay lên.  
+2️ Tránh va chạm vào các ống cản.  
+3️ Điểm số tăng khi vượt qua các ống cản.  
 
 ##  Cách cài đặt & chạy  
-1️⃣ Cài đặt **Python** (nếu chưa có): [Tải Python](https://www.python.org/downloads/)  
-2️⃣ Cài đặt thư viện Pygame:  
+1️ Cài đặt **Python** (nếu chưa có): [Tải Python](https://www.python.org/downloads/)  
+2️ Cài đặt thư viện Pygame:  
 ```sh
 pip install pygame
 
