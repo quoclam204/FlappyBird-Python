@@ -9,7 +9,7 @@ Flappy Bird là một trò chơi đơn giản, nơi người chơi điều khi�
 | **Thư viện** | Pygame |
 
 ##  Hình ảnh minh họa  
-![Gameplay]![Image](https://github.com/user-attachments/assets/b9bfd859-303f-4686-8b00-0fa667d87d79)
+![Image](https://github.com/user-attachments/assets/b9bfd859-303f-4686-8b00-0fa667d87d79)
 
 ##  Cách chơi  
 1️ Nhấn **Space** để làm cho chim bay lên.  
